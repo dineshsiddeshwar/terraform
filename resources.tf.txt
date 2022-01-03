@@ -66,5 +66,4 @@
     subnet_id = aws_subnet.privatesubnets.id
     route_table_id = aws_route_table.routeprivate.id
  }
-
  
